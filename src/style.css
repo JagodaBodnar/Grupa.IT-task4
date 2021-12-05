@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://www.nme.com/wp-content/uploads/2020/05/the-witcher-3-credit-cd-projekt-red-geralt-and-ciri-@2000x1270.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
